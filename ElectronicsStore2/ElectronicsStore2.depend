@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1685875577 source:c:\users\froch\documents\electronicsstore2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,2 @@
+========== Low Stock Report ==========
+Product with ID 1234 is with low stock. Current stock: 64

@@ -1,0 +1,3 @@
+1234 iPhone12 Smartphone 1200.00 Apple A14 64 2022-01-01 Mobile
+5678 MacBook Laptop 2500.00 Apple M1 512 2022-02-15 Laptop
+9012 Samsung Smartphone 1000.00 Samsung Exynos 128 2022-03-20 Mobile
